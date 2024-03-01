@@ -700,7 +700,7 @@ GameObject:
   - component: {fileID: 4176583348152283645}
   - component: {fileID: 5894492439157725824}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Videoplane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -827,7 +827,7 @@ VideoPlayer:
   m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 0
   m_SkipOnDrop: 1
-  m_Looping: 0
+  m_Looping: 1
   m_WaitForFirstFrame: 1
   m_FrameReadyEventEnabled: 0
   m_VideoShaders: []
